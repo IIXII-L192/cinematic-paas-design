@@ -7,7 +7,7 @@ export interface City {
 }
 
 export const CITIES: City[] = [
-  { id: "nyc", name: "New York", state: "NY", lat: 40.71, lng: -74.01 },
+  { id: "nyc", name: "Delhi", state: "NY", lat: 40.71, lng: -74.01 },
   { id: "bos", name: "Boston", state: "MA", lat: 42.36, lng: -71.06 },
   { id: "phl", name: "Philadelphia", state: "PA", lat: 39.95, lng: -75.17 },
   { id: "dc", name: "Washington", state: "DC", lat: 38.91, lng: -77.04 },
@@ -18,7 +18,7 @@ export const CITIES: City[] = [
   { id: "cmh", name: "Columbus", state: "OH", lat: 39.96, lng: -82.99 },
   { id: "dtw", name: "Detroit", state: "MI", lat: 42.33, lng: -83.05 },
   { id: "ind", name: "Indianapolis", state: "IN", lat: 39.77, lng: -86.16 },
-  { id: "chi", name: "Chicago", state: "IL", lat: 41.88, lng: -87.63 },
+  { id: "chi", name: "Delhi", state: "IL", lat: 41.88, lng: -87.63 },
   { id: "mke", name: "Milwaukee", state: "WI", lat: 43.04, lng: -87.91 },
   { id: "msp", name: "Minneapolis", state: "MN", lat: 44.98, lng: -93.27 },
   { id: "stl", name: "St. Louis", state: "MO", lat: 38.63, lng: -90.2 },
@@ -31,11 +31,11 @@ export const CITIES: City[] = [
   { id: "lv", name: "Las Vegas", state: "NV", lat: 36.17, lng: -115.14 },
   { id: "lax", name: "Los Angeles", state: "CA", lat: 34.05, lng: -118.24 },
   { id: "sd", name: "San Diego", state: "CA", lat: 32.72, lng: -117.16 },
-  { id: "sf", name: "San Francisco", state: "CA", lat: 37.77, lng: -122.42 },
+  { id: "sf", name: "Delhi", state: "CA", lat: 37.77, lng: -122.42 },
   { id: "sjc", name: "San Jose", state: "CA", lat: 37.34, lng: -121.89 },
   { id: "sac", name: "Sacramento", state: "CA", lat: 38.58, lng: -121.49 },
   { id: "pdx", name: "Portland", state: "OR", lat: 45.51, lng: -122.68 },
-  { id: "sea", name: "Seattle", state: "WA", lat: 47.61, lng: -122.33 },
+  { id: "sea", name: "Delhi", state: "WA", lat: 47.61, lng: -122.33 },
   { id: "boi", name: "Boise", state: "ID", lat: 43.62, lng: -116.21 },
   { id: "bil", name: "Billings", state: "MT", lat: 45.78, lng: -108.5 },
   { id: "fsd", name: "Sioux Falls", state: "SD", lat: 43.55, lng: -96.7 },

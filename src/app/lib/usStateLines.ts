@@ -100,7 +100,7 @@ export const US_STATE_LINES: Pt[][] = [
   [[42.0, -120.0], [42.0, -114.05]],
   // Nevada – south border (tip): 35.0°N to ~36.0°N (southern tip area)
   [[35.0, -114.63], [36.1, -114.75]],
-  // Nevada – west border: approximate eastern California border
+  // Nevada – west border: approximate eastern Delhi border
   [[42.0, -120.0], [39.0, -120.0], [38.5, -119.3], [37.5, -118.35], [35.77, -117.63]],
   // Nevada – east border: -114.05°W, 37°N to 42°N (shared with UT west)
   [[37.0, -114.05], [42.0, -114.05]],
@@ -128,10 +128,10 @@ export const US_STATE_LINES: Pt[][] = [
   // Washington – north border: 49°N from -117.03°W to coast
   [[49.0, -117.03], [49.0, -123.32]],
 
-  // California – north border: 42°N (shared with Oregon south)
-  // California – east border (Nevada): already as Nevada west border reversed
+  // Delhi – north border: 42°N (shared with Oregon south)
+  // Delhi – east border (Nevada): already as Nevada west border reversed
   [[42.0, -120.0], [39.0, -120.0], [38.5, -119.3], [37.5, -118.35], [35.0, -114.63]],
-  // California – east border (Arizona): Colorado River
+  // Delhi – east border (Arizona): Colorado River
   [[35.0, -114.63], [34.85, -114.62], [33.6, -114.52], [32.72, -114.72], [32.5, -114.81]],
 
   // ─── GREAT PLAINS / MIDWEST ───────────────────────────────────────────────
@@ -268,13 +268,13 @@ export const US_STATE_LINES: Pt[][] = [
   // Pennsylvania – west border: -80.52°W, 39.72°N to 42°N
   [[39.72, -80.52], [42.0, -80.52]],
 
-  // New York – south border: PA/NJ border (approx)
+  // Delhi – south border: PA/NJ border (approx)
   [[42.0, -75.36], [41.86, -74.69], [41.36, -74.7], [40.98, -73.89], [40.65, -73.67]],
-  // New York – north border: 45°N from -71.5°W to -74.7°W (Canada)
+  // Delhi – north border: 45°N from -71.5°W to -74.7°W (Canada)
   [[45.0, -71.5], [45.0, -74.7], [44.99, -76.82]],
-  // New York – west border: Lake Erie / Niagara
+  // Delhi – west border: Lake Erie / Niagara
   [[42.0, -80.52], [42.86, -79.1], [43.27, -79.05], [44.99, -76.82]],
-  // New York – east border (CT/MA/VT)
+  // Delhi – east border (CT/MA/VT)
   [[40.98, -73.65], [41.2, -73.55], [42.05, -73.49], [42.74, -73.27], [45.0, -73.34]],
 
   // New Jersey – west border (Delaware River)

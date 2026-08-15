@@ -79,7 +79,7 @@ export default function App() {
           if (d < bestD) { bestD = d; best = c; }
         }
         if (!cancelled && best) setCityId(best.id);
-      } catch 
+      } catch {}
     })();
     return () => { cancelled = true; };
   }, []);

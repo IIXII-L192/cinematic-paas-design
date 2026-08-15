@@ -8,7 +8,7 @@ function Text() {
   return (
     <div className="h-[27.005px] relative shrink-0 w-[112.569px]" data-name="Text">
       <div className="bg-clip-padding border-0 border-[transparent] border-solid relative size-full">
-        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Geist:ExtraLight',sans-serif] font-extralight leading-[27px] left-[56.5px] text-[18px] text-black text-center top-[-0.89px] tracking-[0.02px] whitespace-nowrap">San Francisco</p>
+        <p className="-translate-x-1/2 [word-break:break-word] absolute font-['Geist:ExtraLight',sans-serif] font-extralight leading-[27px] left-[56.5px] text-[18px] text-black text-center top-[-0.89px] tracking-[0.02px] whitespace-nowrap">Delhi</p>
       </div>
     </div>
   );
@@ -55,7 +55,7 @@ function LocationPicker() {
 function Paragraph() {
   return (
     <div className="h-[17.995px] relative shrink-0 w-[117.431px]" data-name="Paragraph">
-      <p className="[word-break:break-word] absolute font-['Jura:Regular',sans-serif] font-normal leading-[18px] left-0 text-[12px] text-[rgba(0,0,0,0.4)] top-[-0.33px] tracking-[1.6px] uppercase whitespace-nowrap">California, USA</p>
+      <p className="[word-break:break-word] absolute font-['Jura:Regular',sans-serif] font-normal leading-[18px] left-0 text-[12px] text-[rgba(0,0,0,0.4)] top-[-0.33px] tracking-[1.6px] uppercase whitespace-nowrap">Delhi, India</p>
     </div>
   );
 }

@@ -56,7 +56,7 @@ function LocationPicker() {
 function Paragraph() {
   return (
     <div className="h-[17.995px] relative shrink-0 w-[141.424px]" data-name="Paragraph">
-      <p className="[word-break:break-word] absolute font-['Jura:Regular',sans-serif] font-normal leading-[18px] left-0 text-[12px] text-[rgba(0,0,0,0.4)] top-[-0.33px] tracking-[1.6px] uppercase whitespace-nowrap">North Dakota, USA</p>
+      <p className="[word-break:break-word] absolute font-['Jura:Regular',sans-serif] font-normal leading-[18px] left-0 text-[12px] text-[rgba(0,0,0,0.4)] top-[-0.33px] tracking-[1.6px] uppercase whitespace-nowrap">North Dakota, India</p>
     </div>
   );
 }

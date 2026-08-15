@@ -203,7 +203,7 @@ function LocationPicker({ city, onClick }: { city: { name: string; state: string
         <ChevronDownIcon />
       </button>
       <div style={{ fontFamily: "Jura, sans-serif", fontWeight: 400, fontSize: 12, lineHeight: "18px", letterSpacing: "1.6px", textTransform: "uppercase", color: "var(--chip-color)", paddingTop: 2 }}>
-        {city.state}, USA
+        {city.state}, India
       </div>
     </div>
   );
